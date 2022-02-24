@@ -14,6 +14,4 @@ Console.WriteLine($"Hero age: {HeroAge}");
 Console.WriteLine($"Hero powers: {HeroPower1}, {HeroPower2}, {HeroPower3}");
 Console.WriteLine("\n><><><><><><><><><><><><><><><><><><><><><><><><><\n");
 
-double number = (-5 +8*6)*6;
-Console.WriteLine(number);
 
